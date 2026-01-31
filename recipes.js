@@ -6,7 +6,7 @@ const recipes = [
   "One-Pan Quesadilla (or wrap melt)",
   "Garlic Butter (or Olive Oil) Pasta",
   "Microwave Sweet Potato Bowl",
-  "Quick Ramen"
+  "Quick Ramen" 
 ];
 
 export default {
